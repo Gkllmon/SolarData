@@ -1,2 +1,2 @@
 # SolarData
-The dataset of solar event
+The dataset of coronal dimming and coronal wave
